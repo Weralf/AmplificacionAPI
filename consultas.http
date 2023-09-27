@@ -16,7 +16,7 @@ GET http://localhost:1234/productos/3/precio
 
 GET http://localhost:1234/productos/3/nombre
 
-### Obtención del stock de productos
+### Obtención del stock de productos y precios individuales sumados
 
 GET http://localhost:1234/stock
 
